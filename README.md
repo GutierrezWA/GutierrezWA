@@ -12,7 +12,9 @@
   
  <h2> Place Holder Project 3:</h2> 
 - Placeholder 3 (Linux Server related)
+
 - Placeholder 3 (Linux Server related)
+
 - <b> Placeholder 3 (Linux Server related)</b>
   - Substack Article Documentation of Project. 
 
