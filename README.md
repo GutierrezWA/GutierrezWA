@@ -11,8 +11,8 @@
   - Description & Hyperlink (insert here)
   
  <h2> Place Holder Project 3:</h2> 
-- <b> Placeholder 3 (Linux Server related)</b>
-- <b> Placeholder 3 (Linux Server related)</b>
+- Placeholder 3 (Linux Server related)
+- Placeholder 3 (Linux Server related)
 - <b> Placeholder 3 (Linux Server related)</b>
   - Substack Article Documentation of Project. 
 
