@@ -16,5 +16,5 @@
 - <b> Python</b>
   - Small project
   <h2>Currently in education at Whatcom Community College:</h2>
-  Connect with me m#####@student.whatcom.edu
+  Connect with me: m#####@student.whatcom.edu
 
