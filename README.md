@@ -11,7 +11,6 @@
   - Description & Hyperlink (insert here)
   
  <h2> Place Holder Project 3:</h2> 
-- Placeholder 3 (Linux Server related)
 
 - Placeholder 3 (Linux Server related)
 
