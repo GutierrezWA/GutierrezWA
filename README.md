@@ -1,6 +1,8 @@
 ## Hi there, I'm Bryan.
 
-<h2> Projects:</h2>
+<h2> INTRO + What the projects are, maybe they all link? A goal and how each one is a part of it?:</h2>
+
+
 <h2> Place Holder Project 1:</h2>
 - <b> Placeholder 1.1</b>
 <h2> Place Holder Project 2:</h2>
