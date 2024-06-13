@@ -9,9 +9,12 @@
 - <b> Examples</b>
   - Description & Hyperlink (insert here)
   - Description & Hyperlink (insert here)
+  
  <h2> Place Holder Project 3:</h2> 
 - <b> Placeholder 3 (Linux Server related)</b>
-  - Youtube Upload - Video Essay on a linux project. (OR BLOG POST, using something like Substack article)
+- <b> Placeholder 3 (Linux Server related)</b>
+- <b> Placeholder 3 (Linux Server related)</b>
+  - Substack Article Documentation of Project. 
 
 - <b> Python</b>
   - Small project
