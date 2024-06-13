@@ -3,13 +3,13 @@
 <h2> Projects:</h2>
 <h2> Place Holder Project 1:</h2>
 - <b> Placeholder 1.1</b>
-
+<h2> Place Holder Project 2:</h2>
 - <b> Placeholder 2 (google cloud project)</b>
   - placeholder 2.2</b></i>
 - <b> Examples</b>
   - Description & Hyperlink (insert here)
   - Description & Hyperlink (insert here)
-  
+ <h2> Place Holder Project 3:</h2> 
 - <b> Placeholder 3 (Linux Server related)</b>
   - Youtube Upload - Video Essay on a linux project. (OR BLOG POST, using something like Substack article)
 
