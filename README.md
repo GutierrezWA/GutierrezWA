@@ -1,7 +1,6 @@
 ## Hi there, I'm Bryan.
 
 <h2>IT Projects:</h2>
-<!--
 - <b TEST 1
   - 1
 - <b TEST 2
