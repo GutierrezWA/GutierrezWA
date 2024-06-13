@@ -17,6 +17,5 @@
   - Small project
   <h2>Currently in education at Whatcom Community College:</h2>
   Connect with me
-  Email: M######@student.whatcom.edu
   Linkedin: https://www.linkedin.com/in/bryan-gutierrez-a3438930a/
 
